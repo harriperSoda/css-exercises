@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.odd{
+    background-color: rgb(217, 114, 93);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bigger-font{
+    color: darkblue;
+    font-size: 44px;
+}
+#three{
+    font-size: 33px;
+    background-color: rgb(217,114,93);
+}
+#four{
+    background-color: rgb(176, 221, 176);
+    font-size: 22px;
+    font-weight: bold;
+}
